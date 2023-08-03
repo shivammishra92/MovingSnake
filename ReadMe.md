@@ -1,0 +1,1 @@
+A simple program to visualize the linear movement of a snake using C++ graphics
